@@ -1,4 +1,3 @@
-# tayo_todo
 # TODO_APP
 ```
 Let’s make simple TODO_APP. Where Users can add task & keep the track.
